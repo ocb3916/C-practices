@@ -1,7 +1,7 @@
 // 사용자로부터 입력받은 2개의 정수의 합을 계산하여 출력
 #include <stdio.h>
 
-int mainb(void)
+int main(void)
 {
 	int x;
 	int y;

@@ -1,7 +1,7 @@
 /* 원의 면적을 계산하는 프로그램 */
 #include <stdio.h>
 
-int maind(void)
+int main(void)
 {
 	double raidus;
 	double area;
