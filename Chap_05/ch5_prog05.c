@@ -8,5 +8,5 @@ int main()
 	printf("십의 자리:%d\n", value / 10);
 	printf("일의 자리:%d", value % 10);
 
-	return 0;
+	return 0; 
 }
