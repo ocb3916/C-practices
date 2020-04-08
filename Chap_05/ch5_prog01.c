@@ -9,4 +9,4 @@ int main()
 	printf("¸ò:%d ³ª¸ÓÁö:%d", x / y, x % y);
 
 	return 0;
-}
+} 

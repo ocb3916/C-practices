@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int mainc(void)
+int main(void)
 {
 	double w;
 	double h;

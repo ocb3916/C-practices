@@ -11,5 +11,5 @@ int main()
 	max = (z > max) ? z : max;
 	printf("�ִ밪:%d", max);
 
-	return 0;
+	return 0; 
 }

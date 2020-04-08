@@ -18,13 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\2주차 과제\add1.c" />
-    <ClCompile Include="..\2주차 과제\add2.c" />
-    <ClCompile Include="..\2주차 과제\circle_area.c" />
-    <ClCompile Include="..\2주차 과제\escape.c" />
-    <ClCompile Include="..\2주차 과제\rect_area.c" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{5A357826-7067-4892-A947-32920DEC674E}</ProjectGuid>
