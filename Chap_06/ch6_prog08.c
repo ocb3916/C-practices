@@ -14,4 +14,4 @@ int main()
 		printf("요금은 10000원입니다.");
 
 	return 0;
-}
+} 
