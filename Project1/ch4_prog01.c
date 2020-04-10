@@ -11,4 +11,4 @@ int main()
 	printf("지수형식으로는 %e입니다.\n", data);
 
 	return 0;
-}
+} 
