@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-﻿  RequestMain.c
+﻿  Out.c
+  Register.c
+  RequestMain.c
+  RquestDTO.c
+C:\Users\och5351\Desktop\Request_Project_1\RquestDTO.c(2,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Select.c
+  코드를 생성하고 있습니다...
   Request_Project_1.vcxproj -> C:\Users\och5351\Desktop\github_och\C-practices\Debug\Request_Project_1.exe
-=======
-﻿  RquestDTO.c
-C:\Users\och\Desktop\github\C-practices\Request_Project_1\RquestDTO.c(2,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  Request_Project_1.vcxproj -> C:\Users\och\Desktop\github\C-practices\Debug\Request_Project_1.exe
->>>>>>> b1a8f923f0ad0587f5b52f1d6eb2aa8fe2d1fd1f
