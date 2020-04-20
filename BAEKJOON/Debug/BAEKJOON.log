@@ -1,0 +1,7 @@
+﻿  10039.c
+C:\Users\dhcha\Desktop\github\C-practices\BAEKJOON\10039.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dhcha\Desktop\github\C-practices\BAEKJOON\10039.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dhcha\Desktop\github\C-practices\BAEKJOON\10039.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dhcha\Desktop\github\C-practices\BAEKJOON\10039.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dhcha\Desktop\github\C-practices\BAEKJOON\10039.c(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  BAEKJOON.vcxproj -> C:\Users\dhcha\Desktop\github\C-practices\Debug\BAEKJOON.exe
