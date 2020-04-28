@@ -16,12 +16,12 @@ int main()
 	max = num[0];
 	min = num[0];
 
-	for (int w = 1; w <= 4; w++)
+	for (int w = 1; w <= n-1; w++)
 	{
 		if (max < num[w])
 			max = num[w];
 	}
-	for (int j = 1; j <= 4; j++)
+	for (int j = 1; j <= n-1; j++)
 	{
 		if (min > num[j])
 			min = num[j];
