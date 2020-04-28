@@ -1,4 +1,1 @@
-﻿  ch8_prog06.c
-C:\Users\dhcha\Desktop\github\C-practices\Chap_08\ch8_prog06.c(32,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\dhcha\Desktop\github\C-practices\Chap_08\ch8_prog06.c(10): warning C4715: 'even': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  Chap_08.vcxproj -> C:\Users\dhcha\Desktop\github\C-practices\Debug\Chap_08.exe
+﻿
