@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="15596.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{9671ED3E-64D6-434A-BF7A-E39A80888C06}</ProjectGuid>
@@ -93,7 +96,7 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <StackCommitSize>
       </StackCommitSize>
-      <StackReserveSize>5000000</StackReserveSize>
+      <StackReserveSize>50000000</StackReserveSize>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
