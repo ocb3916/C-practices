@@ -1,6 +1,2 @@
-﻿  15596.c
-C:\Users\dhcha\Desktop\github\C-practices\BAEKJOON\15596.c(8,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
-C:\Users\dhcha\Desktop\github\C-practices\BAEKJOON\15596.c(19,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+﻿  4673.c
   BAEKJOON.vcxproj -> C:\Users\dhcha\Desktop\github\C-practices\Debug\BAEKJOON.exe
