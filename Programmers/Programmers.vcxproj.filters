@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LV1-practice2.c">
+    <ClCompile Include="LV1-practice3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
