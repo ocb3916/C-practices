@@ -1,3 +1,9 @@
-﻿  RquestDTO.c
-C:\Users\och\Desktop\github\C-practices\Request_Project_1\RquestDTO.c(2,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  Request_Project_1.vcxproj -> C:\Users\och\Desktop\github\C-practices\Debug\Request_Project_1.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Request_Project_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Out.c
+  Register.c
+  RequestMain.c
+  RquestDTO.c
+  Select.c
+  코드를 생성하고 있습니다...
+C:\Users\dhcha\Desktop\github\C-practices\Request_Project_1\RquestDTO.c(2,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Request_Project_1.vcxproj -> C:\Users\dhcha\Desktop\github\C-practices\Debug\Request_Project_1.exe
