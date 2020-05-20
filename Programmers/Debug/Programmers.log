@@ -1,4 +1,3 @@
-﻿  LV1-practice7.c
-C:\Users\dhcha\Desktop\github\C-practices\Programmers\LV1-practice7.c(48,1): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(584): message : 'strupr' 선언을 참조하십시오.
+﻿  LV1-practice8.c
+C:\Users\dhcha\Desktop\github\C-practices\Programmers\LV1-practice8.c(5,1): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
   Programmers.vcxproj -> C:\Users\dhcha\Desktop\github\C-practices\Debug\Programmers.exe
