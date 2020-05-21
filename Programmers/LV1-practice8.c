@@ -18,4 +18,4 @@ int* solution(long long n) {
 	return answer;
 
 	free(answer);
-}
+} 
