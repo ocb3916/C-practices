@@ -8,4 +8,4 @@ char* solution(int num) {
 	char* answer = (char*)malloc(5);
 	answer = num % 2 == 0 ? "Even" : "Odd";
 	return answer;
-}
+} 
