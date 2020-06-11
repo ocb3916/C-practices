@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="15-1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="15-2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="15-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
